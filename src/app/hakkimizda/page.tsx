@@ -19,7 +19,7 @@ const AboutPage = () => {
         {/* Background Image */}
         <div className="absolute inset-0">
           <Image
-            src="https://media.wusa9.com/assets/WUSA/images/ccba71a4-70ed-49a2-9bd4-88b395c21ce0/ccba71a4-70ed-49a2-9bd4-88b395c21ce0_1920x1080.jpg"
+            src="https://orleanstech.edu/wp-content/uploads/2022/08/OTC-Electricity-1020x615-1.jpg"
             alt="Hakkımızda Arka Plan"
             fill
             priority
@@ -91,7 +91,7 @@ const AboutPage = () => {
             <div className="relative">
               <div className="relative h-64 sm:h-80 lg:h-96 rounded-xl overflow-hidden">
                 <Image
-                  src="/img/sekaslider.jpg"
+                  src="https://www.samedaytrades.com.au/wp-content/uploads/2022/06/electrician-2.webp"
                   alt="Elektrik Ekibi"
                   fill
                   className="object-cover"
@@ -139,7 +139,7 @@ const AboutPage = () => {
             <div className="relative order-2 lg:order-1">
               <div className="relative h-64 sm:h-80 lg:h-96 rounded-xl overflow-hidden">
                 <Image
-                  src="/img/sekaslider.jpg"
+                  src="https://austincareerinstitute.edu/wp-content/uploads/2023/12/electrician-skills-scaled.jpg"
                   alt="Elektrik Hizmetleri"
                   fill
                   className="object-cover"
