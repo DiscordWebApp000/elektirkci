@@ -1,0 +1,196 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "icon": "⚡",
+      "title": "Elektrik Tesisatı",
+      "description": "Yeni bina elektrik tesisatı kurulumu, proje tasarımı ve profesyonel uygulama.",
+      "image": "https://cdn.prod.website-files.com/6390e14cc734a931f8327343/65c086a8515ee2a80d7c0111_65815fbe8bced97cfeafbf4b_image5%20(3).webp",
+      "features": [
+        "Yeni Bina Elektrik Tesisatı",
+        "Elektrik Proje Tasarımı",
+        "Elektrik Hattı Döşeme",
+        "Elektrik Panosu Kurulumu",
+        "Topraklama Sistemi",
+        "Elektrik Test ve Kontrol"
+      ],
+      "overview": "Yeni bina elektrik tesisatı kurulumlarında profesyonel hizmet sunuyoruz. Proje tasarımından uygulamaya kadar tüm süreçleri yönetiyoruz. Modern ve kaliteli malzemeler kullanarak, TSE standartlarına uygun elektrik sistemleri kuruyoruz. Güvenli, verimli ve uzun ömürlü elektrik tesisatları ile binalarınızı donatıyoruz.",
+      "benefits": [
+        "TSE standartlarına uygun kurulum",
+        "Kaliteli malzeme kullanımı",
+        "Güvenli elektrik sistemi",
+        "Enerji verimli çözümler",
+        "Garantili işçilik",
+        "Profesyonel proje yönetimi"
+      ],
+      "process": [
+        "Keşif ve elektrik projesi hazırlama",
+        "Malzeme seçimi ve tedarik",
+        "Elektrik hattı döşeme",
+        "Elektrik panosu montajı",
+        "Topraklama sistemi kurulumu",
+        "Test, kontrol ve devreye alma"
+      ]
+    },
+    {
+      "id": 2,
+      "icon": "🔌",
+      "title": "Elektrik Arıza Giderme",
+      "description": "Elektrik kesintisi, arıza onarımı, sigorta atması ve elektrik sorunları çözümü.",
+      "image": "https://www.lincolntech.edu/sites/default/files/styles/16_9_1600x900/public/2024-03/0124_Hero-Electrician-6_CR3743%20%282%29.jpg?h=c71d0c67&itok=UQhPoCmQ",
+      "features": [
+        "Elektrik Kesintisi Giderme",
+        "Sigorta Atması Sorunu",
+        "Kısa Devre Onarımı",
+        "Elektrik Kaçağı Tespiti",
+        "Priz ve Anahtar Arızası",
+        "Elektrik Panosu Onarımı"
+      ],
+      "overview": "Elektrik arızalarınız için hızlı ve profesyonel çözümler sunuyoruz. Sigorta atması, elektrik kesintisi, kısa devre gibi sorunlarda deneyimli ekibimizle anında müdahale ediyoruz. Modern test cihazları ile arızaları tespit edip, güvenli şekilde onarıyoruz. Elektrik sistemlerinizin sorunsuz çalışmasını sağlıyoruz.",
+      "benefits": [
+        "Hızlı arıza tespiti",
+        "Güvenli onarım işlemleri",
+        "Modern test cihazları",
+        "Kalıcı çözüm garantisi",
+        "Uygun fiyat",
+        "7/24 acil müdahale"
+      ],
+      "process": [
+        "Arıza tespiti ve analiz",
+        "Güvenlik önlemleri alma",
+        "Arızalı bölgeyi izole etme",
+        "Onarım işlemleri",
+        "Test ve kontrol",
+        "Sistem devreye alma"
+      ]
+    },
+    {
+      "id": 3,
+      "icon": "💡",
+      "title": "Aydınlatma Sistemleri",
+      "description": "LED aydınlatma, dekoratif aydınlatma, bahçe aydınlatması ve aydınlatma tasarımı.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0ui-iY7YrSqvbk-gp77bOKvgqOfdOtJhkg&s",
+      "features": [
+        "LED Aydınlatma Kurulumu",
+        "Dekoratif Aydınlatma",
+        "Bahçe Aydınlatması",
+        "Aydınlatma Tasarımı",
+        "Akıllı Aydınlatma Sistemleri",
+        "Enerji Tasarruflu Aydınlatma"
+      ],
+      "overview": "Modern ve enerji verimli aydınlatma sistemleri kuruyoruz. LED teknolojisi ile hem estetik hem de ekonomik çözümler sunuyoruz. İç ve dış mekan aydınlatma tasarımları yapıyor, dekoratif aydınlatma sistemleri kuruyoruz. Akıllı aydınlatma sistemleri ile mekanlarınızı daha konforlu hale getiriyoruz.",
+      "benefits": [
+        "Enerji tasarrufu",
+        "Uzun ömürlü LED teknolojisi",
+        "Estetik aydınlatma tasarımı",
+        "Akıllı kontrol sistemleri",
+        "Uygun fiyat",
+        "Profesyonel montaj"
+      ],
+      "process": [
+        "Aydınlatma tasarımı",
+        "Malzeme seçimi",
+        "Elektrik hattı çekme",
+        "Aydınlatma armatür montajı",
+        "Kontrol sistemi kurulumu",
+        "Test ve ayar"
+      ]
+    },
+    {
+      "id": 4,
+      "icon": "🔧",
+      "title": "Acil Elektrik Servisi",
+      "description": "7/24 acil elektrik arıza giderme, elektrik kesintisi ve acil müdahale hizmeti.",
+      "image": "https://www.knoweasytool.com/cdn/shop/articles/6-reasons-to-enter-the-electrical-trade-become-a-good-electrician-knoweasy_2048x.progressive.jpg?v=1661132256",
+      "features": [
+        "7/24 Acil Elektrik Servisi",
+        "Gece Elektrik Arızası",
+        "Elektrik Kesintisi Giderme",
+        "Acil Sigorta Değişimi",
+        "Hızlı Müdahale",
+        "Geçici Elektrik Çözümü"
+      ],
+      "overview": "Acil elektrik sorunlarınız için 7/24 hizmet veriyoruz. Gece gündüz demeden acil durumlarınızda yanınızdayız. Elektrik kesintisi, sigorta atması, elektrik kaçağı gibi acil durumlarda hızlı müdahale ediyor, sorunlarınızı çözüyoruz. Güvenli ve hızlı çözümlerle elektrik sistemlerinizi normale döndürüyoruz.",
+      "benefits": [
+        "7/24 kesintisiz hizmet",
+        "Hızlı ulaşım ve müdahale",
+        "Gece gündüz hizmet",
+        "Acil durum çözümleri",
+        "Güvenli müdahale",
+        "Geçici ve kalıcı çözümler"
+      ],
+      "process": [
+        "Acil çağrı alımı",
+        "Hızlı ulaşım",
+        "Güvenlik kontrolü",
+        "Arıza tespiti",
+        "Geçici çözüm uygulama",
+        "Kalıcı onarım işlemi"
+      ]
+    },
+    {
+      "id": 5,
+      "icon": "📦",
+      "title": "Elektrik Panosu Montajı",
+      "description": "Elektrik panosu kurulumu, bakımı, modernizasyonu ve güvenlik sistemleri.",
+      "image": "https://cdn.prod.website-files.com/6390e14cc734a931f8327343/66010b543744bdee7efe214e_image2%20(7)%20(1).webp",
+      "features": [
+        "Elektrik Panosu Kurulumu",
+        "Elektrik Panosu Bakımı",
+        "Eski Pano Modernizasyonu",
+        "Güvenlik Sistemleri",
+        "Otomatik Sigorta Montajı",
+        "Elektrik Panosu Testi"
+      ],
+      "overview": "Elektrik panosu kurulumu ve bakımında uzman hizmet sunuyoruz. Modern ve güvenli elektrik panoları kuruyor, eski panoları modernize ediyoruz. Otomatik sigorta sistemleri, güvenlik sistemleri ve akıllı kontrol sistemleri kuruyoruz. Elektrik panolarınızın güvenli ve verimli çalışmasını sağlıyoruz.",
+      "benefits": [
+        "Güvenli elektrik panosu",
+        "Modern teknoloji",
+        "Enerji verimliliği",
+        "Uzun ömürlü sistem",
+        "Kolay bakım",
+        "Garantili işçilik"
+      ],
+      "process": [
+        "Keşif ve proje hazırlama",
+        "Pano seçimi ve tasarım",
+        "Elektrik panosu montajı",
+        "Bağlantı ve kablolama",
+        "Güvenlik testleri",
+        "Devreye alma ve eğitim"
+      ]
+    },
+    {
+      "id": 6,
+      "icon": "🔍",
+      "title": "Elektrik Bakım ve Kontrol",
+      "description": "Periyodik elektrik bakımı, güvenlik kontrolü, enerji verimliliği analizi ve raporlama.",
+      "image": "https://www.centuracollege.edu/wp-content/uploads/2025/05/5_19-CEN-Electrical1-min-1024x683.jpg",
+      "features": [
+        "Periyodik Elektrik Bakımı",
+        "Elektrik Güvenlik Kontrolü",
+        "Enerji Verimliliği Analizi",
+        "Elektrik Ölçüm ve Test",
+        "Arıza Önleme Planı",
+        "Bakım Raporlama"
+      ],
+      "overview": "Elektrik sistemlerinizin düzenli bakımı ve kontrolü için kapsamlı hizmetler sunuyoruz. Periyodik kontroller yaparak olası sorunları önceden tespit ediyor, önleyici bakım planları hazırlıyoruz. Enerji verimliliği analizleri yaparak tasarruf sağlıyoruz. Elektrik sistemlerinizin güvenli ve verimli çalışmasını garanti ediyoruz.",
+      "benefits": [
+        "Önleyici bakım ile arıza önleme",
+        "Enerji tasarrufu",
+        "Güvenlik garantisi",
+        "Uzun ömürlü sistem",
+        "Düzenli bakım raporu",
+        "Maliyet tasarrufu"
+      ],
+      "process": [
+        "Elektrik sistemi kontrolü",
+        "Ölçüm ve test işlemleri",
+        "Arıza ve risk tespiti",
+        "Enerji verimliliği analizi",
+        "Bakım planı hazırlama",
+        "Bakım işlemleri ve raporlama"
+      ]
+    }
+  ]
+}

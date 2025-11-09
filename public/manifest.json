@@ -1,0 +1,27 @@
+{
+  "name": "Seka Altyapı - Profesyonel Tesisat Hizmetleri",
+  "short_name": "Seka Altyapı",
+  "description": "İstanbul'da 20 yıllık deneyimle profesyonel tesisat hizmetleri",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d97706",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/ico.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/ico.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["business", "utilities"],
+  "lang": "tr",
+  "dir": "ltr"
+}
