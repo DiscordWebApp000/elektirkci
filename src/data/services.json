@@ -191,6 +191,134 @@
         "Bakım planı hazırlama",
         "Bakım işlemleri ve raporlama"
       ]
+    },
+    {
+      "id": 7,
+      "icon": "🔍",
+      "title": "Kaçak Tespiti",
+      "description": "Elektrik kaçağı tespiti, güvenlik kontrolü ve profesyonel ölçüm hizmetleri.",
+      "image": "https://www.lincolntech.edu/sites/default/files/styles/16_9_1600x900/public/2024-03/0124_Hero-Electrician-6_CR3743%20%282%29.jpg?h=c71d0c67&itok=UQhPoCmQ",
+      "features": [
+        "Elektrik Kaçağı Tespiti",
+        "Topraklama Kontrolü",
+        "İzolasyon Testi",
+        "Güvenlik Ölçümleri",
+        "Kaçak Akım Rölesi Kontrolü",
+        "Detaylı Raporlama"
+      ],
+      "overview": "Elektrik kaçağı tespiti için modern test cihazları ile profesyonel hizmet sunuyoruz. Güvenliğiniz için kritik olan elektrik kaçaklarını tespit edip, güvenli çözümler sunuyoruz. Topraklama kontrolü, izolasyon testi ve kaçak akım rölesi kontrolleri yapıyoruz. Elektrik sistemlerinizin güvenli çalışmasını sağlıyoruz.",
+      "benefits": [
+        "Güvenlik garantisi",
+        "Modern test cihazları",
+        "Hızlı tespit",
+        "Detaylı raporlama",
+        "Uygun fiyat",
+        "Profesyonel hizmet"
+      ],
+      "process": [
+        "Görsel kontrol",
+        "Test cihazı ile ölçüm",
+        "Kaçak tespiti",
+        "Güvenlik analizi",
+        "Çözüm önerileri",
+        "Raporlama"
+      ]
+    },
+    {
+      "id": 8,
+      "icon": "📡",
+      "title": "Uydu Kurulumu",
+      "description": "Uydu anten kurulumu, çanak anten montajı ve uydu sistemleri kurulum hizmetleri.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0ui-iY7YrSqvbk-gp77bOKvgqOfdOtJhkg&s",
+      "features": [
+        "Uydu Anten Kurulumu",
+        "Çanak Anten Montajı",
+        "Uydu Sinyal Ayarlama",
+        "Kablo Döşeme",
+        "Multiswitch Kurulumu",
+        "Bakım ve Onarım"
+      ],
+      "overview": "Uydu kurulumu ve montajında uzman hizmet sunuyoruz. Çanak anten kurulumu, uydu sinyal ayarlama ve kablo döşeme işlemlerini profesyonelce yapıyoruz. Multiswitch sistemleri kuruyor, mevcut sistemlerin bakım ve onarımını yapıyoruz. Kaliteli sinyal alımı için doğru kurulum yapıyoruz.",
+      "benefits": [
+        "Profesyonel kurulum",
+        "Kaliteli sinyal alımı",
+        "Güvenli montaj",
+        "Uygun fiyat",
+        "Garantili işçilik",
+        "Hızlı hizmet"
+      ],
+      "process": [
+        "Keşif ve planlama",
+        "Anten montajı",
+        "Kablo döşeme",
+        "Sinyal ayarlama",
+        "Test ve kontrol",
+        "Devreye alma"
+      ]
+    },
+    {
+      "id": 9,
+      "icon": "🏠",
+      "title": "Akıllı Ev Değişimi",
+      "description": "Akıllı ev sistemleri kurulumu, otomasyon ve akıllı cihaz entegrasyonu hizmetleri.",
+      "image": "https://cdn.prod.website-files.com/6390e14cc734a931f8327343/65c086a8515ee2a80d7c0111_65815fbe8bced97cfeafbf4b_image5%20(3).webp",
+      "features": [
+        "Akıllı Ev Sistemleri",
+        "Otomasyon Kurulumu",
+        "Akıllı Aydınlatma",
+        "Akıllı Priz Sistemleri",
+        "Mobil Kontrol",
+        "Enerji Yönetimi"
+      ],
+      "overview": "Akıllı ev sistemleri kurulumunda modern teknolojiler kullanıyoruz. Otomasyon sistemleri, akıllı aydınlatma, akıllı priz sistemleri ve mobil kontrol sistemleri kuruyoruz. Enerji yönetimi ve konfor için kapsamlı akıllı ev çözümleri sunuyoruz. Evinizi modern teknoloji ile donatıyoruz.",
+      "benefits": [
+        "Enerji tasarrufu",
+        "Konfor ve kolaylık",
+        "Mobil kontrol",
+        "Modern teknoloji",
+        "Güvenlik artışı",
+        "Uzun vadeli tasarruf"
+      ],
+      "process": [
+        "İhtiyaç analizi",
+        "Sistem tasarımı",
+        "Kurulum ve montaj",
+        "Cihaz entegrasyonu",
+        "Yazılım kurulumu",
+        "Eğitim ve devreye alma"
+      ]
+    },
+    {
+      "id": 10,
+      "icon": "🔌",
+      "title": "Priz Değişimi",
+      "description": "Priz değişimi, priz montajı, topraklı priz kurulumu ve priz onarım hizmetleri.",
+      "image": "https://www.knoweasytool.com/cdn/shop/articles/6-reasons-to-enter-the-electrical-trade-become-a-good-electrician-knoweasy_2048x.progressive.jpg?v=1661132256",
+      "features": [
+        "Priz Değişimi",
+        "Topraklı Priz Kurulumu",
+        "USB Priz Montajı",
+        "Priz Onarımı",
+        "Güvenlik Kontrolü",
+        "Hızlı Hizmet"
+      ],
+      "overview": "Priz değişimi ve montajında hızlı ve güvenli hizmet sunuyoruz. Topraklı priz, USB priz ve modern priz sistemleri kuruyoruz. Eski ve arızalı prizleri değiştirip, güvenli priz sistemleri kuruyoruz. TSE standartlarına uygun priz montajı yapıyoruz.",
+      "benefits": [
+        "Hızlı hizmet",
+        "Güvenli montaj",
+        "TSE standartları",
+        "Modern priz sistemleri",
+        "Uygun fiyat",
+        "Garantili işçilik"
+      ],
+      "process": [
+        "Mevcut priz kontrolü",
+        "Güvenlik önlemleri",
+        "Eski priz sökümü",
+        "Yeni priz montajı",
+        "Test ve kontrol",
+        "Devreye alma"
+      ]
     }
   ]
 }

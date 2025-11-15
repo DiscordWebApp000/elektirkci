@@ -22,7 +22,11 @@ const Services = () => {
       .replace(/^-+|-+$/g, '');
   };
 
-  const services = servicesData.services.slice(0, 4);
+  // Filter services by title
+  const serviceTitles = ['Kaçak Tespiti', 'Uydu Kurulumu', 'Akıllı Ev Değişimi', 'Priz Değişimi'];
+  const services = servicesData.services.filter(service => 
+    serviceTitles.includes(service.title)
+  );
 
   const handleServiceClick = (service: { title: string }) => {
     const slug = createSlug(service.title);
