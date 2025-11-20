@@ -5,7 +5,7 @@
       "icon": "⚡",
       "title": "Elektrik Tesisatı",
       "description": "Yeni bina elektrik tesisatı kurulumu, proje tasarımı ve profesyonel uygulama.",
-      "image": "https://cdn.prod.website-files.com/6390e14cc734a931f8327343/65c086a8515ee2a80d7c0111_65815fbe8bced97cfeafbf4b_image5%20(3).webp",
+      "image": "/img/Elektrik-Tesisatı.jpg",
       "features": [
         "Yeni Bina Elektrik Tesisatı",
         "Elektrik Proje Tasarımı",
@@ -37,7 +37,7 @@
       "icon": "🔌",
       "title": "Elektrik Arıza Giderme",
       "description": "Elektrik kesintisi, arıza onarımı, sigorta atması ve elektrik sorunları çözümü.",
-      "image": "https://www.lincolntech.edu/sites/default/files/styles/16_9_1600x900/public/2024-03/0124_Hero-Electrician-6_CR3743%20%282%29.jpg?h=c71d0c67&itok=UQhPoCmQ",
+      "image": "/img/Elektrik-Arıza-Giderme.jpg",
       "features": [
         "Elektrik Kesintisi Giderme",
         "Sigorta Atması Sorunu",
@@ -65,75 +65,11 @@
       ]
     },
     {
-      "id": 3,
-      "icon": "💡",
-      "title": "Aydınlatma Sistemleri",
-      "description": "LED aydınlatma, dekoratif aydınlatma, bahçe aydınlatması ve aydınlatma tasarımı.",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0ui-iY7YrSqvbk-gp77bOKvgqOfdOtJhkg&s",
-      "features": [
-        "LED Aydınlatma Kurulumu",
-        "Dekoratif Aydınlatma",
-        "Bahçe Aydınlatması",
-        "Aydınlatma Tasarımı",
-        "Akıllı Aydınlatma Sistemleri",
-        "Enerji Tasarruflu Aydınlatma"
-      ],
-      "overview": "Modern ve enerji verimli aydınlatma sistemleri kuruyoruz. LED teknolojisi ile hem estetik hem de ekonomik çözümler sunuyoruz. İç ve dış mekan aydınlatma tasarımları yapıyor, dekoratif aydınlatma sistemleri kuruyoruz. Akıllı aydınlatma sistemleri ile mekanlarınızı daha konforlu hale getiriyoruz.",
-      "benefits": [
-        "Enerji tasarrufu",
-        "Uzun ömürlü LED teknolojisi",
-        "Estetik aydınlatma tasarımı",
-        "Akıllı kontrol sistemleri",
-        "Uygun fiyat",
-        "Profesyonel montaj"
-      ],
-      "process": [
-        "Aydınlatma tasarımı",
-        "Malzeme seçimi",
-        "Elektrik hattı çekme",
-        "Aydınlatma armatür montajı",
-        "Kontrol sistemi kurulumu",
-        "Test ve ayar"
-      ]
-    },
-    {
-      "id": 4,
-      "icon": "🔧",
-      "title": "Acil Elektrik Servisi",
-      "description": "7/24 acil elektrik arıza giderme, elektrik kesintisi ve acil müdahale hizmeti.",
-      "image": "https://www.knoweasytool.com/cdn/shop/articles/6-reasons-to-enter-the-electrical-trade-become-a-good-electrician-knoweasy_2048x.progressive.jpg?v=1661132256",
-      "features": [
-        "7/24 Acil Elektrik Servisi",
-        "Gece Elektrik Arızası",
-        "Elektrik Kesintisi Giderme",
-        "Acil Sigorta Değişimi",
-        "Hızlı Müdahale",
-        "Geçici Elektrik Çözümü"
-      ],
-      "overview": "Acil elektrik sorunlarınız için 7/24 hizmet veriyoruz. Gece gündüz demeden acil durumlarınızda yanınızdayız. Elektrik kesintisi, sigorta atması, elektrik kaçağı gibi acil durumlarda hızlı müdahale ediyor, sorunlarınızı çözüyoruz. Güvenli ve hızlı çözümlerle elektrik sistemlerinizi normale döndürüyoruz.",
-      "benefits": [
-        "7/24 kesintisiz hizmet",
-        "Hızlı ulaşım ve müdahale",
-        "Gece gündüz hizmet",
-        "Acil durum çözümleri",
-        "Güvenli müdahale",
-        "Geçici ve kalıcı çözümler"
-      ],
-      "process": [
-        "Acil çağrı alımı",
-        "Hızlı ulaşım",
-        "Güvenlik kontrolü",
-        "Arıza tespiti",
-        "Geçici çözüm uygulama",
-        "Kalıcı onarım işlemi"
-      ]
-    },
-    {
       "id": 5,
       "icon": "📦",
       "title": "Elektrik Panosu Montajı",
       "description": "Elektrik panosu kurulumu, bakımı, modernizasyonu ve güvenlik sistemleri.",
-      "image": "https://cdn.prod.website-files.com/6390e14cc734a931f8327343/66010b543744bdee7efe214e_image2%20(7)%20(1).webp",
+      "image": "/img/Elektrik-Panosu-Montajı.jpg",
       "features": [
         "Elektrik Panosu Kurulumu",
         "Elektrik Panosu Bakımı",
@@ -165,7 +101,7 @@
       "icon": "🔍",
       "title": "Elektrik Bakım ve Kontrol",
       "description": "Periyodik elektrik bakımı, güvenlik kontrolü, enerji verimliliği analizi ve raporlama.",
-      "image": "https://www.centuracollege.edu/wp-content/uploads/2025/05/5_19-CEN-Electrical1-min-1024x683.jpg",
+      "image": "/img/Elektrik-Bakım-ve-Kontrol.jpg",
       "features": [
         "Periyodik Elektrik Bakımı",
         "Elektrik Güvenlik Kontrolü",
@@ -197,7 +133,7 @@
       "icon": "🔍",
       "title": "Kaçak Tespiti",
       "description": "Elektrik kaçağı tespiti, güvenlik kontrolü ve profesyonel ölçüm hizmetleri.",
-      "image": "https://www.lincolntech.edu/sites/default/files/styles/16_9_1600x900/public/2024-03/0124_Hero-Electrician-6_CR3743%20%282%29.jpg?h=c71d0c67&itok=UQhPoCmQ",
+      "image": "/img/Kaçak-Tespiti.jpg",
       "features": [
         "Elektrik Kaçağı Tespiti",
         "Topraklama Kontrolü",
@@ -229,7 +165,7 @@
       "icon": "📡",
       "title": "Uydu Kurulumu",
       "description": "Uydu anten kurulumu, çanak anten montajı ve uydu sistemleri kurulum hizmetleri.",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0ui-iY7YrSqvbk-gp77bOKvgqOfdOtJhkg&s",
+      "image": "/img/Uydu-Kurulumu.jpg",
       "features": [
         "Uydu Anten Kurulumu",
         "Çanak Anten Montajı",
@@ -261,7 +197,7 @@
       "icon": "🏠",
       "title": "Akıllı Ev Değişimi",
       "description": "Akıllı ev sistemleri kurulumu, otomasyon ve akıllı cihaz entegrasyonu hizmetleri.",
-      "image": "https://cdn.prod.website-files.com/6390e14cc734a931f8327343/65c086a8515ee2a80d7c0111_65815fbe8bced97cfeafbf4b_image5%20(3).webp",
+      "image": "/img/Akıllı-Ev-Değişimi.jpg",
       "features": [
         "Akıllı Ev Sistemleri",
         "Otomasyon Kurulumu",
@@ -293,7 +229,7 @@
       "icon": "🔌",
       "title": "Priz Değişimi",
       "description": "Priz değişimi, priz montajı, topraklı priz kurulumu ve priz onarım hizmetleri.",
-      "image": "https://www.knoweasytool.com/cdn/shop/articles/6-reasons-to-enter-the-electrical-trade-become-a-good-electrician-knoweasy_2048x.progressive.jpg?v=1661132256",
+      "image": "/img/Priz-Değişimi.jpg",
       "features": [
         "Priz Değişimi",
         "Topraklı Priz Kurulumu",

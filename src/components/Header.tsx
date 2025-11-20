@@ -56,7 +56,7 @@ const Header = () => {
               {/* Mobile Logo - Her zaman normal logo */}
               <Image 
                 src="/logo.png"
-                alt="Debu Elektrik Logo"
+                alt="Mervenur Elektirikk Logo"
                 width={200}
                 height={60}
                 className="h-8 w-auto sm:h-10 md:h-12 lg:h-14 lg:hidden"
@@ -65,7 +65,7 @@ const Header = () => {
               {/* Desktop Logo - Scroll'a göre değişir */}
               <Image 
                 src={isScrolled ? "/logo.png" : "/logo-dark.png"}
-                alt="Debu Elektrik Logo"
+                alt="Mervenur Elektirikk Logo"
                 width={200}
                 height={60}
                 className="h-8 w-auto sm:h-10 md:h-12 lg:h-14 hidden lg:block"

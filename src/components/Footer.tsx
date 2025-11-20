@@ -102,7 +102,7 @@ const Footer = () => {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                 </svg>
-                <span>Antalya, Türkiye</span>
+                <span>İstanbul, Türkiye</span>
               </li>
               <li className="text-gray-400 text-xs sm:text-sm flex items-center gap-2">
                 <svg className="w-4 h-4 text-amber-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -185,7 +185,7 @@ const Footer = () => {
             <div className="flex items-center gap-3">
               <Image 
                 src="/logo-dark.png"
-                alt="Debu Elektrik Logo"
+                alt="Mervenur Elektirikk Logo"
                 width={120}
                 height={40}
                 className="h-8 w-auto opacity-90 hover:opacity-100 transition-opacity"
@@ -196,7 +196,7 @@ const Footer = () => {
             {/* Copyright */}
             <div className="text-center md:text-right">
               <p className="text-gray-500 text-xs">
-                © 2025 <span className="text-amber-500 font-semibold">Debu Elektrik</span>. 
+                © 2025 <span className="text-amber-500 font-semibold">Mervenur Elektirikk</span>. 
                 Tüm hakları saklıdır.
               </p>
             </div>

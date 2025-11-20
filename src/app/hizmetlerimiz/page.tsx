@@ -35,7 +35,7 @@ const ServicesPage = () => {
         {/* Background Image */}
         <div className="absolute inset-0">
           <Image
-            src="https://static.vecteezy.com/system/resources/previews/026/493/459/large_2x/electricity-engineer-female-working-check-service-high-voltage-electrical-cabinet-worker-repair-electric-surge-problem-problem-in-industry-factory-photo.jpg"
+            src="/img/slider2.jpg"
             alt="Elektrik Hizmetleri"
             fill
             priority

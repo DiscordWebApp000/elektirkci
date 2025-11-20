@@ -66,7 +66,7 @@ const HizmetBolgelerimizPage = () => {
         {/* Background Image */}
         <div className="absolute inset-0">
           <Image
-            src="https://minenergy.gov.az/uploads/energetika/Alternativ.jpg"
+            src="/img/slider3.jpg"
             alt="Hizmet Bölgelerimiz Arka Plan"
             fill
             priority

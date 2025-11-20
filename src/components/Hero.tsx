@@ -18,11 +18,11 @@ const Hero = () => {
   const slides: Slide[] = [
     {
       id: 1,
-      image: 'https://www.elektrikciankara.com/images/upload/_1624264869.jpg',
-      title: 'Debu',
+      image: "/img/slider1.jpg",
+      title: 'Mervenur',
       subtitle: 'Elektrik',
-      description: '2017\'den bu yana Antalya\'da hizmet veren Debu Elektrik; elektrik malzemeleri, aydınlatma çözümleri, iş güvenliği ekipmanları ve hırdavat ürünlerinde geniş ürün yelpazesi, kaliteli markalar ve hızlı tedarik desteğiyle öne çıkar. Toptan ve perakende satışta güvenilir çözümler sunar.',
-      badge: 'Antalya'
+      description: '2017\'den bu yana İstanbulda\'da hizmet veren Mervenur Elektirikk; elektrik malzemeleri, aydınlatma çözümleri, iş güvenliği ekipmanları ve hırdavat ürünlerinde geniş ürün yelpazesi, kaliteli markalar ve hızlı tedarik desteğiyle öne çıkar. Toptan ve perakende satışta güvenilir çözümler sunar.',
+      badge: 'İstanbul'
     },
     {
       id: 2,

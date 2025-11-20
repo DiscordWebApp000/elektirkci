@@ -10,7 +10,7 @@ const References = () => {
     {
       name: "Ahmet Yılmaz",
       company: "Konut Sahibi",
-      location: "Antalya, Muratpaşa",
+      location: "İstanbul, Muratpaşa",
       rating: 5,
       comment: "Çok profesyonel bir ekip. Elektrik tesisatı kurulumunu çok kaliteli yaptılar. 2 yıldır hiç sorun yaşamadık. Kesinlikle tavsiye ederim!",
       image: "/img/ahmet.avif"
@@ -18,7 +18,7 @@ const References = () => {
     {
       name: "Banu Demirkul",
       company: "İş Yeri Sahibi",
-      location: "Antalya, Konyaaltı",
+      location: "İstanbul, Konyaaltı",
       rating: 5,
       comment: "İş yerimizdeki elektrik arızasını çok hızlı çözdüler. 7/24 acil servis hizmeti gerçekten çok değerli. Teşekkürler!",
       image: "/img/ayşe.avif"
@@ -26,7 +26,7 @@ const References = () => {
     {
       name: "Ayşe Demir",
       company: "Apartman Yöneticisi",
-      location: "Antalya, Kepez",
+      location: "İstanbul, Kepez",
       rating: 5,
       comment: "Apartmanımızda yapılan elektrik panosu modernizasyonu çok kaliteli. Tüm daireler memnun. Profesyonel hizmet!",
       image: "/img/banu.avif"
@@ -34,7 +34,7 @@ const References = () => {
     {
       name: "Ali Öztürk",
       company: "Ev Sahibi",
-      location: "Antalya, Döşemealtı",
+      location: "İstanbul, Döşemealtı",
       rating: 5,
       comment: "Gece yarısı elektrik kesintisi yaşadık, 1 saatte geldiler ve sorunu çözdüler. 7/24 hizmet harika!",
       image: "/img/ali.avif"

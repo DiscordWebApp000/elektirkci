@@ -330,14 +330,14 @@ const ContactPage = () => {
               </h3>
               <div className="bg-white rounded-xl overflow-hidden shadow-lg h-80 sm:h-96 border border-gray-100">
                 <iframe
-                  src="https://www.google.com/maps?q=Antalya%2C%20Türkiye&output=embed"
+                  src="https://www.google.com/maps?q=İstanbul%2C%20Türkiye&output=embed"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
                   allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Debu Elektrik Konum"
+                  title="Mervenur Elektirikk Konum"
                 ></iframe>
               </div>
               
@@ -441,7 +441,7 @@ const ContactPage = () => {
                 Ofisimize uğrayabilirsiniz.
               </p>
               <p className="text-amber-600 font-medium text-xs sm:text-sm leading-relaxed">
-                {contactInfo?.address || 'Antalya, Türkiye'}
+                {contactInfo?.address || 'İstanbul, Türkiye'}
               </p>
             </div>
           </div>

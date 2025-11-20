@@ -19,7 +19,7 @@ const AboutPage = () => {
         {/* Background Image */}
         <div className="absolute inset-0">
           <Image
-            src="https://orleanstech.edu/wp-content/uploads/2022/08/OTC-Electricity-1020x615-1.jpg"
+            src="/img/slider5.jpg"
             alt="Hakkımızda Arka Plan"
             fill
             priority
@@ -40,7 +40,7 @@ const AboutPage = () => {
             </div>
            
             <p className="text-xs sm:text-sm text-gray-300 leading-relaxed">
-              25 yılı aşkın deneyimimizle Antalya&apos;da güvenilir elektrik hizmetleri sunuyoruz.
+              25 yılı aşkın deneyimimizle İstanbul&apos;da güvenilir elektrik hizmetleri sunuyoruz.
             </p>
           </div>
         </div>
@@ -61,11 +61,11 @@ const AboutPage = () => {
                 Hikayemiz
               </h2>
               <p className="text-xs sm:text-sm text-gray-600 leading-relaxed mb-6">
-                2017 yılında Antalya&apos;da başlayan hikayemiz, bugün bölgenin 
+                2017 yılında İstanbul&apos;da başlayan hikayemiz, bugün bölgenin 
                 en güvenilir elektrik firmaları arasında yer almamızla devam ediyor. 
                 &quot;Kaliteli hizmet, mutlu müşteri&quot; mottosuyla başladığımız bu yolculukta, 
                 her geçen gün daha da büyüdük. Bugün uzman ekibimizle, modern teknolojileri 
-                geleneksel ustalıkla birleştirerek, Antalya&apos;nın dört bir yanında hizmet veriyoruz.
+                geleneksel ustalıkla birleştirerek, İstanbul&apos;nın dört bir yanında hizmet veriyoruz.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
@@ -248,7 +248,7 @@ const AboutPage = () => {
                   Kuruluş
                 </h3>
                 <p className="text-xs sm:text-sm text-white/90 leading-relaxed">
-                  Antalya&apos;da elektrik hizmetleri verme vizyonuyla yolculuğumuza başladık. İlk müşteri projemiz 
+                  İstanbul&apos;da elektrik hizmetleri verme vizyonuyla yolculuğumuza başladık. İlk müşteri projemiz 
                   gelecekteki başarılar için sahneyi hazırladı.
                 </p>
               </div>
@@ -305,12 +305,12 @@ const AboutPage = () => {
           <div className="bg-gradient-to-br from-gray-50 to-white rounded-2xl p-6 sm:p-8 lg:p-10 border border-gray-200 text-center">
             <h3 className="text-xl sm:text-2xl md:text-3xl font-bold text-gray-900 mb-4">Misyonumuz</h3>
             <p className="text-xs sm:text-sm md:text-base text-gray-600 leading-relaxed max-w-3xl mx-auto mb-6">
-              &quot;Antalya&apos;da yaşayan her ailenin ve işletmenin elektrik ihtiyaçlarını en hızlı, en kaliteli 
+              &quot;İstanbul&apos;da yaşayan her ailenin ve işletmenin elektrik ihtiyaçlarını en hızlı, en kaliteli 
               ve en uygun fiyatla karşılamak. Modern teknoloji ile geleneksel ustalığı birleştirerek, 
               müşterilerimize 7/24 güvenilir elektrik hizmetleri sunmak bizim misyonumuz.&quot;
             </p>
             <div className="text-xs sm:text-sm text-amber-600 font-semibold">
-              - Debu Elektrik Ekibi
+              - Mervenur Elektirikk Ekibi
             </div>
           </div>
         </div>

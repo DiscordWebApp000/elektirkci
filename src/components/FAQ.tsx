@@ -23,7 +23,7 @@ const FAQ = () => {
     },
     {
       question: "Hangi bölgelerde hizmet veriyorsunuz?",
-      answer: "Antalya'nın tüm ilçelerinde hizmet veriyoruz. Özellikle Muratpaşa, Konyaaltı, Kepez ve Döşemealtı bölgelerinde daha hızlı müdahale edebiliyoruz."
+      answer: "İstanbul'nın tüm ilçelerinde hizmet veriyoruz. Özellikle Muratpaşa, Konyaaltı, Kepez ve Döşemealtı bölgelerinde daha hızlı müdahale edebiliyoruz."
     },
     {
       question: "Elektrik malzemelerini siz mi temin ediyorsunuz?",

@@ -21,7 +21,7 @@ const WhyChooseUs = () => {
         </svg>
       ),
       title: "Kaliteli Markalarla Güvenli Alışveriş",
-      description: "Debu Elektrik olarak sadece güvenilir markaları tercih ediyor, uzun ömürlü ve güvenli kullanım sağlayan ürünler sunuyoruz."
+      description: "Mervenur Elektirikk olarak sadece güvenilir markaları tercih ediyor, uzun ömürlü ve güvenli kullanım sağlayan ürünler sunuyoruz."
     },
     {
       icon: (
@@ -30,7 +30,7 @@ const WhyChooseUs = () => {
         </svg>
       ),
       title: "Hızlı Tedarik ve Lojistik Desteği",
-      description: "İhtiyacınız olan ürünler, zamanında kapınızda. Antalya içi hızlı teslimat ve şehir dışı kargo seçenekleriyle projelerinizi bekletmeden destekliyoruz."
+      description: "İhtiyacınız olan ürünler, zamanında kapınızda. İstanbul içi hızlı teslimat ve şehir dışı kargo seçenekleriyle projelerinizi bekletmeden destekliyoruz."
     }
   ];
 
@@ -64,12 +64,12 @@ const WhyChooseUs = () => {
 
               {/* Ana Başlık */}
               <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black text-gray-900 mb-5 leading-[1.1] bg-gradient-to-r from-gray-900 via-amber-600 to-gray-900 bg-clip-text text-transparent">
-                Neden Debu Elektrik?
+                Neden Mervenur Elektirikk?
               </h2>
 
               {/* Açıklama */}
               <p className="text-sm sm:text-base text-gray-600 mb-8 leading-relaxed max-w-xl">
-                Antalya&apos;da elektrik, aydınlatma, iş güvenliği ve hırdavat ihtiyaçlarınıza tek noktadan çözüm sunuyoruz. 25 yılı aşkın deneyimimiz, kaliteli ürün çeşitliliğimiz ve güvenilir lojistik desteğimizle hem bireysel hem kurumsal müşterilerimize hızlı, ekonomik ve profesyonel hizmet sağlıyoruz.
+                İstanbul&apos;da elektrik, aydınlatma, iş güvenliği ve hırdavat ihtiyaçlarınıza tek noktadan çözüm sunuyoruz. 25 yılı aşkın deneyimimiz, kaliteli ürün çeşitliliğimiz ve güvenilir lojistik desteğimizle hem bireysel hem kurumsal müşterilerimize hızlı, ekonomik ve profesyonel hizmet sağlıyoruz.
               </p>
 
               {/* Teklif Al Butonu */}
